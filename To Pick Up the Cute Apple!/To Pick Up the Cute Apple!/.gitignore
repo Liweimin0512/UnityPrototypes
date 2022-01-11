@@ -5,6 +5,7 @@ Temp/
 Library/
 Logs/
 !Library/LastSceneManagerSetup.txt
+**/packages
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -21,6 +22,7 @@ obj/
 *.unityproj
 *.booproj
 .vs/
+.vscode/
 
 # ============ #
 # OS generated #
